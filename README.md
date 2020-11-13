@@ -1,5 +1,5 @@
 # Resource and Scaffold Generator
-
+so i can submit
 ## Objectives
 
 1. Use the resource generator
